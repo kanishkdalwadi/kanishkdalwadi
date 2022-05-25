@@ -34,9 +34,9 @@ I'm very enthusiastic when it comes to learning about new things. I have also ma
     <img width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" />
   </a>
   
- ![Kanishk's github stats](https://github-readme-stats.vercel.app/api?username=vrushalipachchigar&show_icons=true&hide_border=true)
+ ![Kanishk's github stats](https://github-readme-stats.vercel.app/api?username=kanishkdalwadi&show_icons=true&hide_border=true)
 <br/>
-<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vrushalipachchigar) -->
+<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkdalwadi) -->
 
-  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=vrushalipachchigar.vrushalipachchigar)
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=kanishkdalwadi.kanishkdalwadi)
 
